@@ -1,0 +1,16 @@
+.show__animal {
+  position: relative;
+  border: 1px solid rgb(250, 204, 187);
+  padding: 5px;
+  margin: 10;
+  display: flex;
+}
+.heart {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  right: 0;
+}
+.animal {
+  width: 150px;
+}
